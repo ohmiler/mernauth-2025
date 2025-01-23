@@ -57,7 +57,7 @@ function LoginForm({ setAuth }) {
                                     required 
                                 />
                             </div>
-                            <button type='submit' className='btn btn-primary w-100'>Register</button>
+                            <button type='submit' className='btn btn-primary w-100'>Login</button>
                         </form>
                     </div>
                 </div>
